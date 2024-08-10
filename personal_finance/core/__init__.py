@@ -1,0 +1,1 @@
+from .fire import calculate_fire
